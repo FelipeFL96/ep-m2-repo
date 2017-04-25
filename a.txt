@@ -1,0 +1,4 @@
+azul est bleu
+vermelho est rouge
+
+Mais rouge ne change pas si l'objecte est fémenin ou masculin.
