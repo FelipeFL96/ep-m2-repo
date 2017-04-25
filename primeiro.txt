@@ -1,0 +1,30 @@
+Nós vamos fazer a conjugação dos verbos em português
+
+verbo: ir
+
+eu vou
+tu vais
+ele vai
+nós vamos
+vós ides
+eles vão
+
+verbo: ser
+
+eu sou
+tu és
+ele é
+nós somos
+vós sois
+eles são
+
+verbo: haver
+
+eu hei
+tu hás
+ele há
+nós havemos
+vós haveis
+eles hão
+
+é isso
