@@ -1,0 +1,6 @@
+Bom dia.
+
+Este arquivo não serve para muita coisa. Será utilizado para testes no git.
+
+Bonjour, je ne sais pas écriter en français corretement.
+Plus, probablement, il a trop des errors a ce texte.
