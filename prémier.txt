@@ -1,0 +1,30 @@
+Nous allons faire la cónjugaison des verbes en français
+
+verbe: aller
+
+je vais
+tu vai
+il vá
+nous allons
+vous allez
+ils vont
+
+verbe: être
+
+je suis
+tu es
+il est
+nous sommes
+vous êtes
+ils sont
+
+verbe: avoir
+
+j'ai
+tu ai
+il a
+nous avons
+vous avez
+ils ont
+
+c'est ça
