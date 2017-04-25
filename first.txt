@@ -1,0 +1,30 @@
+We are going todo the conjugation of the verbs in english
+
+verb: to go
+
+I go
+you go
+he goes
+we go
+you go
+the go
+
+verb: to be
+
+I am
+you are
+he is
+we are
+you are
+they are
+
+verb: to have
+
+I have
+you have
+he has
+we have
+you have
+they have
+
+this is it
